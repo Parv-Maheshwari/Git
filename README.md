@@ -5,6 +5,7 @@
   - [Reference + Extra Reading](http://gitimmersion.com/index.html)
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
   - [Git Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+  - [Extra Resource](https://missing.csail.mit.edu/2020/version-control/)
 
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
 
