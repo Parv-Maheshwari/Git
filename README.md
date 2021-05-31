@@ -25,7 +25,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-
+   * ` Saumyadip Nandy [Pagol1](http://github.com/Pagol1)`.  
 
 ## Task 2
 
