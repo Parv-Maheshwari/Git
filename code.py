@@ -1,0 +1,1 @@
+print("USELESS PIECE OF CODE")
