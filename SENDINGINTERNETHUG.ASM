@@ -1,5 +1,5 @@
 
-;
+;sending internet hug
 ;	VIRUS02.ASM
 ;
 ;	Author: Johan Gardhage <johan.gardhage@gmail.com>
