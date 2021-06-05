@@ -1,4 +1,3 @@
-
 ;sending internet hug
 ;	VIRUS02.ASM
 ;
